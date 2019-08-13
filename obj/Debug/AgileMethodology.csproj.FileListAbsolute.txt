@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\bin\Debug\AgileMethodology.exe.config
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\bin\Debug\AgileMethodology.exe
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\bin\Debug\AgileMethodology.pdb
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\App.g.cs
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology_MarkupCompile.cache
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology_MarkupCompile.lref
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology.g.resources
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology.Properties.Resources.resources
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology.exe
+C:\Users\ADG\source\repos\AgileMethodology\AgileMethodology\obj\Debug\AgileMethodology.pdb
