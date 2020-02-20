@@ -6,6 +6,6 @@ Confidential information is not displayed.
 
 Please download the executable in https://github.com/alpaddesai/AgileMethodology/releases for details.
 
-All images are either custom by Alpa D Desai. 
+All images are custom by Alpa D Desai. 
 
 ![image](AgileLifeCycle.png)
