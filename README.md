@@ -9,3 +9,5 @@ Please download the executable in https://github.com/alpaddesai/AgileMethodology
 All images are custom by Alpa D Desai or a reference is provided.
 
 ![image](AgileLifeCycle.png)
+
+Advanced knowledge reference : https://github.com/alpaddesai/TechnicalProjectManagement
