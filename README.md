@@ -1,4 +1,4 @@
-# Agile Methodology
+# Foundations of Software Engineering
 
 The project provides an introduction to product development lifecycles including the Agile Methodolgy
 
