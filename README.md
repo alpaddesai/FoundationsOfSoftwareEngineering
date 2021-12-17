@@ -10,4 +10,4 @@ All images are custom by Alpa D Desai or a reference is provided.
 
 ![image](AgileLifeCycle.png)
 
-Advanced knowledge reference :https://github.com/alpaddesai/Algorithms, https://github.com/alpaddesai/ObjectOrientedDesignProgramming,  https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp and https://github.com/alpaddesai/HW_SW_Integration_ProductSupport
+Advanced knowledge reference :https://github.com/alpaddesai/Algorithms, https://github.com/alpaddesai/ObjectOrientedDesignProgramming,  https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp
