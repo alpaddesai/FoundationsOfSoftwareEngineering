@@ -14,4 +14,4 @@ All images are custom by Alpa D Desai or a reference is provided.
 
 ![image](Ethics.jpg)
 
-Advanced knowledge reference https://github.com/alpaddesai/SoftwareEngineering
+Advanced knowledge reference https://github.com/alpaddesai/SoftwareEngineering and https://github.com/alpaddesai/Algorithms
