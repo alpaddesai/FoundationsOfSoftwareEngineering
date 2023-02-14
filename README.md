@@ -1,6 +1,6 @@
 ## Foundations of Software Engineering
 
-The project provides an introduction to product development lifecycles including the Agile Methodolgy
+The project provides an introduction to foundations of software engineering. 
 
 Confidential information is not displayed. All images are custom by Alpa D Desai or a reference is provided.
 
