@@ -2,13 +2,8 @@
 
 The project provides an introduction to product development lifecycles including the Agile Methodolgy
 
-Confidential information is not displayed.
+Confidential information is not displayed. All images are custom by Alpa D Desai or a reference is provided.
 
-Please download the executable in https://github.com/alpaddesai/FoundationsofSoftwareEngineering/releases for details.
-
-All images are custom by Alpa D Desai or a reference is provided.
-
-![image](AgileLifeCycle.png)
 
 ![image](USCopyrightCertificate.png)
 
