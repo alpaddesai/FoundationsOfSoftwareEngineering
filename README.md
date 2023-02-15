@@ -4,6 +4,8 @@ The project provides an introduction to software product development lifecycle
 
 Confidential information is not displayed. All images are custom by Alpa D Desai or a reference is provided.
 
+![image](SoftwareDevelopmentCycle.png)
+
 ![image](AgileLifeCycle.png)
 
 ![image](USCopyrightCertificate.png)
